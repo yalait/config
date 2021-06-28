@@ -36,7 +36,7 @@ set wildmenu "Дополнительная информация в строке 
 
 set incsearch " Поиск в процессе набора$
 set wrap linebreak nolist "Данная вариация работает как wrap
-colorscheme sublimemonokai
+colorscheme desert
 set expandtab
 set smarttab
 set tabstop=4
