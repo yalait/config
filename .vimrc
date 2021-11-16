@@ -34,6 +34,8 @@ set number " показывать номера строк
 set list " включить подсветку
 set showcmd " Подсказки ввода команд
 
+set nrformats=
+
 set hlsearch " Подсвечивать результаты поиска " set hls
 set incsearch " Поиск в процессе набора " set is
 set ignorecase " Учет регистра при поиске  "set ic
